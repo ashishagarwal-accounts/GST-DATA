@@ -1,0 +1,300 @@
+{
+ "gstin": "19ZZZFD0001Z1ZD",
+ "fp": "092026",
+ "version": "GST3.2.2",
+ "hash": "hash",
+ "b2b": [
+  {
+   "ctin": "19AABCT1001A1Z8",
+   "inv": [
+    {
+     "inum": "S/26-27/101",
+     "idt": "01-09-2026",
+     "val": 590000.0,
+     "pos": "19",
+     "rchrg": "N",
+     "inv_typ": "R",
+     "itms": [
+      {
+       "num": 1801,
+       "itm_det": {
+        "txval": 500000.0,
+        "rt": 18,
+        "iamt": 0.0,
+        "camt": 45000.0,
+        "samt": 45000.0,
+        "csamt": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ctin": "19AABCT1002B1Z5",
+   "inv": [
+    {
+     "inum": "S/26-27/102",
+     "idt": "01-09-2026",
+     "val": 448400.0,
+     "pos": "19",
+     "rchrg": "N",
+     "inv_typ": "R",
+     "itms": [
+      {
+       "num": 1801,
+       "itm_det": {
+        "txval": 380000.0,
+        "rt": 18,
+        "iamt": 0.0,
+        "camt": 34200.0,
+        "samt": 34200.0,
+        "csamt": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ctin": "27AABCT1003C1Z5",
+   "inv": [
+    {
+     "inum": "S/26-27/103",
+     "idt": "05-09-2026",
+     "val": 236000.0,
+     "pos": "27",
+     "rchrg": "N",
+     "inv_typ": "R",
+     "itms": [
+      {
+       "num": 1801,
+       "itm_det": {
+        "txval": 200000.0,
+        "rt": 18,
+        "iamt": 36000.0,
+        "camt": 0.0,
+        "samt": 0.0,
+        "csamt": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ctin": "19AABCT1004D1ZZ",
+   "inv": [
+    {
+     "inum": "S/26-27/105",
+     "idt": "20-09-2026",
+     "val": 29500.0,
+     "pos": "19",
+     "rchrg": "N",
+     "inv_typ": "R",
+     "itms": [
+      {
+       "num": 1801,
+       "itm_det": {
+        "txval": 25000.0,
+        "rt": 18,
+        "iamt": 0.0,
+        "camt": 2250.0,
+        "samt": 2250.0,
+        "csamt": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "b2cs": [
+  {
+   "sply_ty": "INTRA",
+   "pos": "19",
+   "typ": "OE",
+   "rt": 18,
+   "txval": 109523.81,
+   "iamt": 0.0,
+   "camt": 9857.14,
+   "samt": 9857.15,
+   "csamt": 0.0
+  }
+ ],
+ "cdnr": [
+  {
+   "ctin": "19AABCT1001A1Z8",
+   "nt": [
+    {
+     "ntty": "C",
+     "nt_num": "CN/26-27/01",
+     "nt_dt": "15-09-2026",
+     "val": 59000.0,
+     "pos": "19",
+     "rchrg": "N",
+     "inv_typ": "R",
+     "itms": [
+      {
+       "num": 1801,
+       "itm_det": {
+        "txval": 50000.0,
+        "rt": 18,
+        "iamt": 0.0,
+        "camt": 4500.0,
+        "samt": 4500.0,
+        "csamt": 0.0
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "at": [
+  {
+   "pos": "19",
+   "sply_ty": "INTRA",
+   "itms": [
+    {
+     "rt": 18,
+     "ad_amt": 466666.67,
+     "iamt": 0.0,
+     "camt": 42000.0,
+     "samt": 42000.0,
+     "csamt": 0.0
+    }
+   ]
+  }
+ ],
+ "txpd": [
+  {
+   "pos": "19",
+   "sply_ty": "INTRA",
+   "itms": [
+    {
+     "rt": 18,
+     "ad_amt": 20000.0,
+     "iamt": 0.0,
+     "camt": 1800.0,
+     "samt": 1800.0,
+     "csamt": 0.0
+    }
+   ]
+  }
+ ],
+ "hsn": {
+  "hsn_b2b": [
+   {
+    "num": 1,
+    "hsn_sc": "997212",
+    "desc": "",
+    "uqc": "NA",
+    "qty": 0.0,
+    "rt": 18,
+    "txval": 975000.0,
+    "iamt": 36000.0,
+    "camt": 69750.0,
+    "samt": 69750.0,
+    "csamt": 0.0
+   },
+   {
+    "num": 2,
+    "hsn_sc": "998599",
+    "desc": "",
+    "uqc": "NA",
+    "qty": 0.0,
+    "rt": 18,
+    "txval": 80000.0,
+    "iamt": 0.0,
+    "camt": 7200.0,
+    "samt": 7200.0,
+    "csamt": 0.0
+   }
+  ],
+  "hsn_b2c": [
+   {
+    "num": 1,
+    "hsn_sc": "995411",
+    "desc": "",
+    "uqc": "NA",
+    "qty": 0.0,
+    "rt": 18,
+    "txval": 59523.81,
+    "iamt": 0.0,
+    "camt": 5357.14,
+    "samt": 5357.15,
+    "csamt": 0.0
+   },
+   {
+    "num": 2,
+    "hsn_sc": "997212",
+    "desc": "",
+    "uqc": "NA",
+    "qty": 0.0,
+    "rt": 18,
+    "txval": 50000.0,
+    "iamt": 0.0,
+    "camt": 4500.0,
+    "samt": 4500.0,
+    "csamt": 0.0
+   }
+  ]
+ },
+ "doc_issue": {
+  "doc_det": [
+   {
+    "doc_num": 1,
+    "docs": [
+     {
+      "num": 1,
+      "from": "S/26-27/101",
+      "to": "S/26-27/106",
+      "totnum": 6,
+      "cancel": 0,
+      "net_issue": 6
+     }
+    ]
+   },
+   {
+    "doc_num": 5,
+    "docs": [
+     {
+      "num": 1,
+      "from": "CN/26-27/01",
+      "to": "CN/26-27/01",
+      "totnum": 1,
+      "cancel": 0,
+      "net_issue": 1
+     }
+    ]
+   },
+   {
+    "doc_num": 6,
+    "docs": [
+     {
+      "num": 1,
+      "from": "RCPT/101",
+      "to": "RCPT/102",
+      "totnum": 2,
+      "cancel": 0,
+      "net_issue": 2
+     }
+    ]
+   },
+   {
+    "doc_num": 8,
+    "docs": [
+     {
+      "num": 1,
+      "from": "PYMT/7",
+      "to": "PYMT/7",
+      "totnum": 1,
+      "cancel": 0,
+      "net_issue": 1
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,168 @@
+{
+  "chksum": "sample",
+  "data": {
+    "gstin": "19ZZZFD0001Z1ZD",
+    "rtnprd": "092026",
+    "version": "1.0",
+    "gendt": "14-10-2026",
+    "docdata": {
+      "b2b": [
+        {
+          "ctin": "19AABCS2001E1ZZ",
+          "trdnm": "Shield Security Services",
+          "supfildt": "11-10-2026",
+          "supprd": "092026",
+          "inv": [
+            {
+              "inum": "SEC/889",
+              "typ": "R",
+              "dt": "02-09-2026",
+              "val": 118000,
+              "pos": "19",
+              "rev": "N",
+              "itcavl": "Y",
+              "rsn": "",
+              "diffprcnt": 1,
+              "srctyp": "",
+              "items": [
+                {
+                  "num": 1,
+                  "rt": 18,
+                  "txval": 100000,
+                  "igst": 0,
+                  "cgst": 9000,
+                  "sgst": 9000,
+                  "cess": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "19AABCH2002F1Z7",
+          "trdnm": "Sparkle Housekeeping",
+          "supfildt": "11-10-2026",
+          "supprd": "092026",
+          "inv": [
+            {
+              "inum": "HK/77",
+              "typ": "R",
+              "dt": "03-09-2026",
+              "val": 71980,
+              "pos": "19",
+              "rev": "N",
+              "itcavl": "Y",
+              "rsn": "",
+              "diffprcnt": 1,
+              "srctyp": "",
+              "items": [
+                {
+                  "num": 1,
+                  "rt": 18,
+                  "txval": 61000,
+                  "igst": 0,
+                  "cgst": 5490,
+                  "sgst": 5490,
+                  "cess": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "27AABCE2003G1ZA",
+          "trdnm": "Volt Electricals",
+          "supfildt": "11-10-2026",
+          "supprd": "092026",
+          "inv": [
+            {
+              "inum": "EL-45",
+              "typ": "R",
+              "dt": "04-09-2026",
+              "val": 94400,
+              "pos": "19",
+              "rev": "N",
+              "itcavl": "Y",
+              "rsn": "",
+              "diffprcnt": 1,
+              "srctyp": "",
+              "items": [
+                {
+                  "num": 1,
+                  "rt": 18,
+                  "txval": 80000,
+                  "igst": 14400,
+                  "cgst": 0,
+                  "sgst": 0,
+                  "cess": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "19AABCC2004H1Z6",
+          "trdnm": "Tasty Caterers",
+          "supfildt": "11-10-2026",
+          "supprd": "092026",
+          "inv": [
+            {
+              "inum": "CT-12",
+              "typ": "R",
+              "dt": "08-09-2026",
+              "val": 21000,
+              "pos": "19",
+              "rev": "N",
+              "itcavl": "Y",
+              "rsn": "",
+              "diffprcnt": 1,
+              "srctyp": "",
+              "items": [
+                {
+                  "num": 1,
+                  "rt": 5,
+                  "txval": 20000,
+                  "igst": 0,
+                  "cgst": 500,
+                  "sgst": 500,
+                  "cess": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ctin": "19AABCM2006K1ZN",
+          "trdnm": "Metro Supplies",
+          "supfildt": "11-10-2026",
+          "supprd": "092026",
+          "inv": [
+            {
+              "inum": "MISC/5",
+              "typ": "R",
+              "dt": "18-09-2026",
+              "val": 11800,
+              "pos": "19",
+              "rev": "N",
+              "itcavl": "Y",
+              "rsn": "",
+              "diffprcnt": 1,
+              "srctyp": "",
+              "items": [
+                {
+                  "num": 1,
+                  "rt": 18,
+                  "txval": 10000,
+                  "igst": 0,
+                  "cgst": 900,
+                  "sgst": 900,
+                  "cess": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
