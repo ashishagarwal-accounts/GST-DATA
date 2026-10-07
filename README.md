@@ -28,6 +28,12 @@ python -m venv .venv
 .venv\Scripts\python scripts\smoke_test.py     # end-to-end check on the alcove_gst_test database (wiped each run)
 ```
 
+## Source code
+
+Kept at https://github.com/ashishagarwal-accounts/GST-DATA. Changes made through Claude Code are committed and
+pushed automatically at the end of each turn (a Stop hook in the parent folder's `.claude/settings.local.json`).
+`.env` and `.venv/` are never published.
+
 ## Sign-in
 
 Every page and API call needs a signed-in user. On a fresh database the first visit shows "Create the
